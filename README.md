@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mussamoss
-- 👀 I’m interested in Automation & Robotics 
+- 👀 I’m interested in Electronic, Automation & Robotics 
 - 🌱 I’m currently learning Robotics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
