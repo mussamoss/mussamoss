@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mussamoss
-- 👀 I’m interested in Electronic, Automation & Robotics 
-- 🌱 I’m currently learning Robotics 
+- 👀 I’m interested in Electronic,Automation,IoT & Robotics 
+- 🌱 I’m currently learning Robotics & Electrical motor control 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
